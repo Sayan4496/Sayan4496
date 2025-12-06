@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on:<br>An AI-driven Virtual Assistant Chatbot and a Garbage & Waste Management platform with my team.<br><br>🤝 I’m looking to collaborate on:<br>AI/ML projects, full-stack web development, and open-source contributions.<br><br>🧠 I’m currently learning:<br>Data Structures & Algorithms, Machine Learning fundamentals, and modern web technologies.<br><br>💬 Ask me about:<br>Hackathon project building, team leadership, GitHub workflow, and beginner-friendly tech roadmaps.<br><br>👀 I’m looking for help with:<br>Improving my chatbot’s NLP accuracy and integrating LLM models into real-world applications.<br><br>⚡ Fun fact:<br>I recently participated in my first hackathon Innov8 — and my team secured 2nd place!
+🛠 I’m currently working on:<br>An AI-driven Virtual Assistant Chatbot and a Garbage & Waste Management platform with my team.<br>🤝 I’m looking to collaborate on:<br>AI/ML projects, full-stack web development, and open-source contributions.<br>🧠 I’m currently learning:<br>Data Structures & Algorithms, Machine Learning fundamentals, and modern web technologies.<br>💬 Ask me about:<br>Hackathon project building, team leadership, GitHub workflow, and beginner-friendly tech roadmaps.<br>👀 I’m looking for help with:<br>Improving my chatbot’s NLP accuracy and integrating LLM models into real-world applications.<br>⚡ Fun fact:<br>I recently participated in my first hackathon Innov8 — and my team secured 2nd place!
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sayan4496&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sayan4496&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sayan4496&icon=0&color=0)](https://visitcount.itsvg.in)
